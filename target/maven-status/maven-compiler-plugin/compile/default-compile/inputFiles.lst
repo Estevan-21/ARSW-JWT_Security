@@ -1,0 +1,9 @@
+/home/estevan/Documentos/SecurityJWT/src/main/java/com/auth0/samples/authapi/springbootauthupdated/SpringbootAuthUpdatedApplication.java
+/home/estevan/Documentos/SecurityJWT/src/main/java/com/auth0/samples/authapi/springbootauthupdated/user/ApplicationUserRepository.java
+/home/estevan/Documentos/SecurityJWT/src/main/java/com/auth0/samples/authapi/springbootauthupdated/security/SecurityConstants.java
+/home/estevan/Documentos/SecurityJWT/src/main/java/com/auth0/samples/authapi/springbootauthupdated/task/Task.java
+/home/estevan/Documentos/SecurityJWT/src/main/java/com/auth0/samples/authapi/springbootauthupdated/task/TaskController.java
+/home/estevan/Documentos/SecurityJWT/src/main/java/com/auth0/samples/authapi/springbootauthupdated/user/UserController.java
+/home/estevan/Documentos/SecurityJWT/src/main/java/com/auth0/samples/authapi/springbootauthupdated/user/ApplicationUser.java
+/home/estevan/Documentos/SecurityJWT/src/main/java/com/auth0/samples/authapi/springbootauthupdated/task/TaskRepository.java
+/home/estevan/Documentos/SecurityJWT/src/main/java/com/auth0/samples/authapi/springbootauthupdated/security/JWTAuthenticationFilter.java
